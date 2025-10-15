@@ -110,9 +110,4 @@ A Laravel-based book management system with user authentication and role-based a
     - Email: `sachin.muthukuda@test.com`
     - Password: `12345678`
 
-    ### For Users
-
-1. **Login** with user credentials:
-
-    - Email: `pathumsilva49@gmail.com`
-    - Password: `Pathum@2025`
+ 
